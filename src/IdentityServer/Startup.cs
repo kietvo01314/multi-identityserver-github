@@ -4,6 +4,7 @@
 
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
+using System.Security.Cryptography.X509Certificates;
 
 namespace IdentityServer
 {
@@ -18,7 +19,8 @@ namespace IdentityServer
                 .AddInMemoryApiResources(Config.Apis)
                 .AddInMemoryClients(Config.Clients);
 
-            builder.AddDeveloperSigningCredential();
+            //builder.AddDeveloperSigningCredential();
+            builder.AddSigningCredential(GetIdentityServerCertificate());
         }
 
         public void Configure(IApplicationBuilder app)
@@ -37,6 +39,12 @@ namespace IdentityServer
             //{
             //    endpoints.MapDefaultControllerRoute();
             //});
+        }
+        private X509Certificate2 GetIdentityServerCertificate()
+        {
+            X509Certificate2 cert = null;
+            cert = new X509Certificate2("IdentityServerCert.pfx", "123");
+            return cert;
         }
     }
 }
