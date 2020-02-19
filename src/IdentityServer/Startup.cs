@@ -4,6 +4,7 @@
 
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.IdentityModel.Logging;
 using System.Security.Cryptography.X509Certificates;
 
 namespace IdentityServer
@@ -26,7 +27,7 @@ namespace IdentityServer
         public void Configure(IApplicationBuilder app)
         {
             app.UseDeveloperExceptionPage();
-
+            IdentityModelEventSource.ShowPII = true;
             // uncomment if you want to add MVC
             //app.UseStaticFiles();
             //app.UseRouting();

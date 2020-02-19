@@ -8,9 +8,10 @@ using System.Threading.Tasks;
 namespace Api.Controllers
 {
     [Route("identity")]
-    [Authorize]
+    
     public class IdentityController : ControllerBase
     {
+        [Authorize]
         [HttpGet]
         public IActionResult Get()
         {

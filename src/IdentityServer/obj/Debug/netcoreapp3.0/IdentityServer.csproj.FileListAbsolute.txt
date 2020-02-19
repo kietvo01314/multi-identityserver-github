@@ -30,10 +30,11 @@ E:\id4_quickstart\multi-identityserver4\src\IdentityServer\bin\Debug\netcoreapp3
 E:\id4_quickstart\multi-identityserver4\src\IdentityServer\obj\Debug\netcoreapp3.0\IdentityServer.csprojAssemblyReference.cache
 E:\id4_quickstart\multi-identityserver4\src\IdentityServer\obj\Debug\netcoreapp3.0\staticwebassets\IdentityServer.StaticWebAssets.Manifest.cache
 E:\id4_quickstart\multi-identityserver4\src\IdentityServer\obj\Debug\netcoreapp3.0\staticwebassets\IdentityServer.StaticWebAssets.xml
-E:\id4_quickstart\multi-identityserver4\src\IdentityServer\obj\Debug\netcoreapp3.0\IdentityServer.MvcApplicationPartsAssemblyInfo.cache
 E:\id4_quickstart\multi-identityserver4\src\IdentityServer\obj\Debug\netcoreapp3.0\IdentityServer.AssemblyInfoInputs.cache
 E:\id4_quickstart\multi-identityserver4\src\IdentityServer\obj\Debug\netcoreapp3.0\IdentityServer.AssemblyInfo.cs
 E:\id4_quickstart\multi-identityserver4\src\IdentityServer\obj\Debug\netcoreapp3.0\IdentityServer.RazorTargetAssemblyInfo.cache
 E:\id4_quickstart\multi-identityserver4\src\IdentityServer\obj\Debug\netcoreapp3.0\IdentityServer.csproj.CopyComplete
 E:\id4_quickstart\multi-identityserver4\src\IdentityServer\obj\Debug\netcoreapp3.0\IdentityServer.dll
 E:\id4_quickstart\multi-identityserver4\src\IdentityServer\obj\Debug\netcoreapp3.0\IdentityServer.pdb
+E:\id4_quickstart\multi-identityserver4\src\IdentityServer\obj\Debug\netcoreapp3.0\IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+E:\id4_quickstart\multi-identityserver4\src\IdentityServer\bin\Debug\netcoreapp3.0\IdentityServerCert.pfx

@@ -21,7 +21,7 @@ E:\id4_quickstart\multi-identityserver4\src\Api\bin\Debug\netcoreapp3.0\Microsof
 E:\id4_quickstart\multi-identityserver4\src\Api\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
 E:\id4_quickstart\multi-identityserver4\src\Api\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
 E:\id4_quickstart\multi-identityserver4\src\Api\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
-E:\id4_quickstart\multi-identityserver4\src\Api\obj\Debug\netcoreapp3.0\Api.MvcApplicationPartsAssemblyInfo.cache
 E:\id4_quickstart\multi-identityserver4\src\Api\obj\Debug\netcoreapp3.0\Api.csproj.CopyComplete
 E:\id4_quickstart\multi-identityserver4\src\Api\obj\Debug\netcoreapp3.0\Api.dll
 E:\id4_quickstart\multi-identityserver4\src\Api\obj\Debug\netcoreapp3.0\Api.pdb
+E:\id4_quickstart\multi-identityserver4\src\Api\obj\Debug\netcoreapp3.0\Api.MvcApplicationPartsAssemblyInfo.cache
