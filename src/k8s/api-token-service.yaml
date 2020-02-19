@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: api-token-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: api-token
+  template:
+    metadata:
+      labels:
+        app: api-token
+    spec:
+      containers:
+      - name: api-token-authorize
+        image: api-token:v1
+        ports:
+          - containerPort: 80
+      resources:
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: api-token-authorize-service
+spec:
+  type: LoadBalancer
+  ports:
+    - port: 8050
+      targetPort: 80
+  selector:
+      app: api-token
+
+
+
