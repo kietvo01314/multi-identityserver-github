@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: identity-server4-authorize
-        image: identity-server4-authorize:v2
+        image: identity-server4-authorize:v3
         ports:
           - containerPort: 80
       resources: 

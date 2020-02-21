@@ -24,4 +24,15 @@ E:\id4_quickstart\multi-identityserver4\src\Api\bin\Debug\netcoreapp3.0\System.I
 E:\id4_quickstart\multi-identityserver4\src\Api\obj\Debug\netcoreapp3.0\Api.csproj.CopyComplete
 E:\id4_quickstart\multi-identityserver4\src\Api\obj\Debug\netcoreapp3.0\Api.dll
 E:\id4_quickstart\multi-identityserver4\src\Api\obj\Debug\netcoreapp3.0\Api.pdb
+E:\id4_quickstart\multi-identityserver4\src\Api\bin\Debug\netcoreapp3.0\Serilog.dll
+E:\id4_quickstart\multi-identityserver4\src\Api\bin\Debug\netcoreapp3.0\Serilog.Sinks.Console.dll
+E:\id4_quickstart\multi-identityserver4\src\Api\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\id4_quickstart\multi-identityserver4\src\Api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+E:\id4_quickstart\multi-identityserver4\src\Api\bin\Debug\netcoreapp3.0\Serilog.AspNetCore.dll
+E:\id4_quickstart\multi-identityserver4\src\Api\bin\Debug\netcoreapp3.0\Serilog.Extensions.Hosting.dll
+E:\id4_quickstart\multi-identityserver4\src\Api\bin\Debug\netcoreapp3.0\Serilog.Extensions.Logging.dll
+E:\id4_quickstart\multi-identityserver4\src\Api\bin\Debug\netcoreapp3.0\Serilog.Formatting.Compact.dll
+E:\id4_quickstart\multi-identityserver4\src\Api\bin\Debug\netcoreapp3.0\Serilog.Settings.Configuration.dll
+E:\id4_quickstart\multi-identityserver4\src\Api\bin\Debug\netcoreapp3.0\Serilog.Sinks.Debug.dll
+E:\id4_quickstart\multi-identityserver4\src\Api\bin\Debug\netcoreapp3.0\Serilog.Sinks.File.dll
 E:\id4_quickstart\multi-identityserver4\src\Api\obj\Debug\netcoreapp3.0\Api.MvcApplicationPartsAssemblyInfo.cache

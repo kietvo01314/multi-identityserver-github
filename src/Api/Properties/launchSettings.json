@@ -11,6 +11,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "environmentVariables": {
+        "ASPNETCORE_HOSTIP": "http://localhost:10001",
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
@@ -24,7 +25,6 @@
     "Docker": {
       "commandName": "Docker",
       "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
-      "environmentVariables": {},
       "httpPort": 5001
     }
   }
